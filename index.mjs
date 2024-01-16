@@ -1,4 +1,4 @@
-export function tinny(string){
+export function tiny(string){
     if(typeof string != string){
         throw new TypeError("Tinny wants a string");
     };

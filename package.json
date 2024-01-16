@@ -10,5 +10,8 @@
     "npm",
     "package",
     "Eustachekamala"
-  ]
+  ],
+  "dependencies": {
+    "@eustache_kamala/tiny": "^1.0.0"
+  }
 }
